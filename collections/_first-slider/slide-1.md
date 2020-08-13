@@ -1,6 +1,6 @@
 ---
 title: Mapa Sonora
-image: graphic-example1.png
+image: 
 ---
 
 # Mapa Sonora
