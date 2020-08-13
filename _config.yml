@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Mapa Digital".
+title: Mapa Digital
 
 # Logo image
 image: 
@@ -23,7 +23,7 @@ description: >-
   Mapa sobre los avances de la minería en Sonora.
 
 # URL of your contracts file or API endpoint
-contracts_url: "riosonora/assets/data/contracts.csv"
+contracts_url: "/assets/data/contracts.csv"
 #contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
 
 
