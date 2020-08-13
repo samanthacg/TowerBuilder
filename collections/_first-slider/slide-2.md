@@ -1,8 +1,8 @@
 ---
-title: Slide 2
-image: graphic-example2.png
+title: ¿Cómo sucedió el dearrame?
+image: 
 ---
 
-# THIS IS THE SECOND SLIDE
+# ¿Cómo sucedió el dearrame?
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+El miércoles 06 de agosto de 2014 la empresa minera Buenavista del Cobre subsidiaria de Grupo México, S.A.B. de C.V., derramó 40,000 m3 de sulfato de cobre CuSO4 sobre uno de los afluentes del río Bacanuchi, el cual confluye con el río Sonora–Arizpe a tan solo 75 km río abajo, ambas corrientes forman parte de la Cuenca Hidrográfica del Río Sonora (RH09D) en el Estado de Sonora. La sustancia química se dispersó a través de la corriente del río en un trayecto de más de 300 km, afectando por lo menos a 8 municipios, provocando daños al medio ambiente y poniendo en riesgo la salud de aproximadamente 22 mil personas1 habitantes de 30 localidades aledañas al río.
